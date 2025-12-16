@@ -9,6 +9,11 @@ The objective is to analyze trends, geographic distribution, and key patterns to
 Proyecto de Análisis Exploratorio de Datos sobre homicidios dolosos en Argentina (2017–2023).  
 El objetivo es analizar tendencias, distribución geográfica y patrones relevantes mediante dashboards interactivos.
 
+## Project Structure
+
+- data/ → datasets and data dictionary  
+- dashboard/ → Power BI dashboard (.pbix)  
+- report/ → final analytical report (PDF)
 ---
 
 ## Tools & Technologies
