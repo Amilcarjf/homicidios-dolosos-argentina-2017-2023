@@ -1,35 +1,66 @@
-# homicidios-dolosos-argentina-2017-2023
-Exploratory data analysis and Power BI dashboards on intentional homicides in Argentina (2017–2023).
-## Overview
-This project presents an exploratory data analysis of intentional homicides in Argentina between 2017 and 2023.  
-The objective is to identify patterns, trends, and geographic distributions to support data-driven insights.
+# Intentional Homicides in Argentina (2017–2023)
 
-## Data Source
-The analysis is based on official open data published by Argentine government sources, covering national homicide records for the selected period.
+## Project Overview
+*EN*  
+Exploratory Data Analysis project focused on intentional homicides in Argentina between 2017 and 2023.  
+The objective is to analyze trends, geographic distribution, and key patterns to support data-driven insights through interactive dashboards.
 
-## Tools Used
-- Microsoft Excel (data cleaning and preprocessing)
-- SQL (data querying and structuring)
-- Power BI (interactive dashboards and visual analysis)
+*ES*  
+Proyecto de Análisis Exploratorio de Datos sobre homicidios dolosos en Argentina (2017–2023).  
+El objetivo es analizar tendencias, distribución geográfica y patrones relevantes mediante dashboards interactivos.
 
-## Analysis Process
-- Data cleaning and transformation
+---
+
+## Tools & Technologies
+- Power BI
+- Excel
+- SQL (data preparation concepts)
 - Exploratory Data Analysis (EDA)
-- Temporal trend analysis
-- Geographic distribution analysis
-- Dashboard design focused on clarity and decision support
 
-## Key Insights
-- Evolution of homicide rates over time
-- Differences across regions and provinces
-- Identification of high-incidence areas
-- Patterns related to year-over-year changes
+---
 
+## Data Sources
+*EN / ES*  
+Open data published by official Argentine government sources.  
+The Excel file includes:
+- Data dictionary
+- Six normalized tables used in the Power BI model
+
+---
+
+## Dashboard
+The Power BI dashboard includes:
+- Temporal trends (yearly evolution)
+- Geographic distribution by province
+- Comparative analysis and indicators
+
+📎 *Power BI file (.pbix)* included in this repository  
+📎 *Public Drive folder (backup & view-only):*  
+[Google Drive – Project Files](https://drive.google.com/drive/folders/1DEJO4xXIsy5OEEmZqIjOwQZxypFisCdw?usp=sharing)
+
+---
+
+## Documentation
+- Final analytical report (PDF)
+- Data dictionary and structured datasets (Excel)
+
+---
+
+## Author
+*Amilcar Fernández*  
+Data Analyst in training  
+LinkedIn: http://linkedin.com/in/amilcar-fernández-59384b201  
+GitHub: https://github.com/Amilcarjf
+
+---
+
+## Notes
+This project was developed as part of professional training in Data Analytics and is intended to demonstrate analytical thinking, data modeling, and visualization skills.
 ## Dashboards
 Interactive dashboards and supporting files are available at the following link:  
-[Google Drive – Project Files](https://drive.google.com/drive/folders/1DEJO4xXIsy5OEEmZqIjOwQZxypFisCdw?usp=sharingLINK_HERE)
+[Google Drive – Project Files](https://drive.google.com/drive/folders/1DEJO4xXIsy5OEEmZqIjOwQZxypFisCdw?usp=sharing)
 
 
 ## Author
-Amílcar Fernández  
+Amilcar Fernández  
 Data Analyst in training
